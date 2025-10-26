@@ -16,3 +16,10 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env*
