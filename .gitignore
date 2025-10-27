@@ -23,3 +23,8 @@ __pycache__/
 *.pyd
 .env
 .env*
+.venv/
+__pycache__/
+*.pyc
+.env
+.env*
